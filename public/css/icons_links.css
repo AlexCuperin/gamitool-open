@@ -1,0 +1,186 @@
+.icon-wrap {
+ background:none repeat scroll 0 0 #FFFFFF;
+ -webkit-border-radius:50%;
+ -moz-border-radius:50%;
+ -ms-border-radius:50%;
+ -o-border-radius:50%;
+ border-radius:50%;
+ -moz-box-sizing:border-box;
+ -webkit-box-sizing:border-box;
+ box-sizing:border-box;
+ display:inline-block;
+ margin: 0 auto 30px;
+ overflow:visible;
+ padding:15px;
+ text-align:center;
+ width:40px;
+ height:40px
+}
+.icon-wrap.white {
+ background:#FFFFFF
+}
+.icon-wrap.color1 {
+ background:#01A9DB
+}
+.icon-wrap.color2 {
+ background:#EF3B3A
+}
+.icon-wrap.color3 {
+ background:#F2BC47
+}
+.icon-wrap.color4 {
+ background:#4C5D67
+}
+.icon-wrap.color5 {
+ background:#65C565
+}
+.icon-wrap.color6 {
+ background:#9966cc
+}
+.icon-wrap.large {
+ height:156px;
+ width:156px
+}
+.icon-wrap.medium {
+ height:70px;
+ width:70px
+}
+.icon-wrap.small {
+ height:40px;
+ margin:0 3px 5px;
+ width:40px
+}
+.icon-wrap i {
+ display:block;
+ line-height:40px;
+ text-align:center;
+ vertical-align:middle
+}
+.icon-wrap.small i {
+ color:#FFFFFF;
+ display:inline-block;
+ font-size:18px;
+ margin:0 auto;
+ text-align:center;
+ vertical-align:middle
+}
+.icon-wrap.medium i {
+ color:#FFFFFF;
+ display:inline-block;
+ font-size:36px;
+ margin:14px auto;
+ text-align:center;
+ vertical-align:middle
+}
+.icon-wrap.large i {
+ color:#FFFFFF;
+ display:inline-block;
+ font-size:80px;
+ margin:38px auto;
+ text-align:center;
+ vertical-align:middle
+}
+a.icon-wrap {
+ color:#FFFFFF;
+ -webkit-transition:all 0.4s ease-in-out;
+ -moz-transition:all 0.4s ease-in-out;
+ -o-transition:all 0.4s ease-in-out;
+ transition:all 0.4s ease-in-out;
+ margin-bottom:5px
+}
+a.icon-wrap.small {
+ height:40px;
+ margin:0 3px 5px;
+ width:40px
+}
+.icon-wrap.small.color4:hover {
+ background:#48A3A6
+}
+.social a.icon-wrap i {
+ color:#85959e;
+ -webkit-transition:all 0.4s ease-in-out;
+ -moz-transition:all 0.4s ease-in-out;
+ -o-transition:all 0.4s ease-in-out;
+ transition:all 0.4s ease-in-out
+}
+.social a.icon-wrap:hover i {
+ color:#FFFFFF
+}
+a.facebook:hover {
+ background:#3b5996
+}
+a.twitter:hover {
+ background:#00acee
+}
+a.vimeo:hover {
+ background:#0dadd6
+}
+a.dribble:hover {
+ background:#d53e68
+}
+a.youtube:hover {
+ background:#cb322c
+}
+a.pinterest:hover {
+ background:#cb2027
+}
+a.google:hover {
+ background:#4683EA
+}
+a.gplus:hover {
+ background:#c3391c
+}
+a.linkedin:hover {
+ background:#0b7bb6
+}
+a.flickr:hover {
+ background:#e2006a
+}
+a.eventful:hover {
+ background:#0066cc
+}
+a.eventbrite:hover {
+ background:#ff6500
+}
+a.lanyrd:hover {
+ background:#152E51
+}
+a.forrst:hover {
+ background:#6C9C76
+}
+a.delicious:hover {
+ background:#0B79E5
+}
+a.yahoo:hover {
+ background:#500095
+}
+a.digg:hover {
+ background:#1b5891
+}
+a.rss:hover {
+ background:#f29a1d
+}
+a.blogger:hover {
+ background:#ff9835
+}
+a.dribbble:hover {
+ background:#EA4C89
+}
+a.skype:hover {
+ background:#00aff0
+}
+a.soundcloud:hover {
+ background:#FA3219
+}
+a.picasa:hover {
+ background:#4787ED
+}
+a.yelp:hover {
+ background:#c41200
+}
+a.tumblr:hover {
+ background:#3d5a70
+}
+a.instagram:hover {
+ background:#306088
+}

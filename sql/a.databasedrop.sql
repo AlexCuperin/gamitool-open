@@ -1,0 +1,2 @@
+DROP DATABASE gamitool;
+CREATE DATABASE gamitool;

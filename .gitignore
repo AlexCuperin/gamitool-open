@@ -1,0 +1,28 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
+
+#project ignores
+node_modules/
+config/database.php
+.git
+server.php
+vendor/
+storage/framework
+storage/_redundant
+logfile
+command_output
+
+#backup ignores
+sql/backupcreator/portal*
+sql/backupcreator/gamitool_auto_backups_copy_jic/*
+sql/backupcreator/getoverherebackups/*
